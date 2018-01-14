@@ -1,23 +1,22 @@
 .img-width-fix {
-max-width: 100%;
-height:200px;
+  max-width: 100%;
+  height:200px;
 }
+
 .card-footer {
 	font-size: 30px;
 
 }
 
-
-
 /* profile.css */
 html {
-  background-color: #f5f7f9;
+  background-color: #FFE7AA;
 }
 
 body {
   background: none;
   color: #69707a;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: 'Neuton', serif;
 }
 
 strong {
@@ -63,4 +62,19 @@ strong {
 .description {
   background-image: url("/pattern.png");
   background-repeat: repeat-x;
+}
+
+.profile-card {
+  background-image: url("../img/66.jpeg");
+  background-repeat: repeat-x;
+
+}
+
+.VA {
+height:190px;
+width: 250px;
+}
+.VA1 {
+  width: 200px;
+  height:250px;
 }

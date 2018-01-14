@@ -6,7 +6,8 @@ html {
 body {
   background: none;
   color: #69707a;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: 'Great Vibes', cursive;
+
 }
 
 strong {
@@ -14,13 +15,12 @@ strong {
 }
 
 
-.btn {
-  font-weight: 300;
-}
+
 
 .btn-primary {
   background: #e16879;
   border-color: #e16879;
+  font-size: 30px;
 }
 
 .btn-primary:hover,
@@ -29,19 +29,16 @@ strong {
 .btn-primary:active:focus {
   background: #e05164;
   border-color: #e05164;
-}
 
+}
+.button {
+  font-size: 50px;
+}
 .card {
   border-color: #ccc;
 }
 
-.display-3 {
-  
-  font-size: 100px;
-}
-.display-1 {
- font-size: 50px;
-}
+
 
 .card-block small {
   float: right;
