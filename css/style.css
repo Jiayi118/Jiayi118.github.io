@@ -1,0 +1,66 @@
+.img-width-fix {
+max-width: 100%;
+height:200px;
+}
+.card-footer {
+	font-size: 30px;
+
+}
+
+
+
+/* profile.css */
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #6B949E;
+}
+.navbar-brand {
+	color: white;
+}
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background:#6B949E;
+  border-color: #6B949E;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #6B949E;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
